@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tkazusa.github.io/blog-sample.io/docs/</loc>
+    <loc>https://tkazusa.github.io/blog-sample.io/docs/example/</loc>
   </url>
   
   <url>
@@ -87,7 +87,11 @@
   </url>
   
   <url>
-    <loc>https://tkazusa.github.io/blog-sample.io/docs/page-one/</loc>
+    <loc>https://tkazusa.github.io/blog-sample.io/docs/example/tech-contents/page-one/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tkazusa.github.io/blog-sample.io/docs/</loc>
   </url>
   
 </urlset>

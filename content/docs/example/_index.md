@@ -4,4 +4,4 @@ bookFlatSection: true
 title: "Example Site"
 ---
 
-# イントロダクション
+# Introduction
