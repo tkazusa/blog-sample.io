@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Example Site on ML portal</title>
-    <link>http://tkazusa.github.io/docs/</link>
+    <link>https://tkazusa.github.io/blog-sample.io/docs/</link>
     <description>Recent content in Example Site on ML portal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://tkazusa.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tkazusa.github.io/blog-sample.io/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://tkazusa.github.io/docs/page-one/</link>
+      <link>https://tkazusa.github.io/blog-sample.io/docs/page-one/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://tkazusa.github.io/docs/page-one/</guid>
+      <guid>https://tkazusa.github.io/blog-sample.io/docs/page-one/</guid>
       <description>doc1 #  </description>
     </item>
     
