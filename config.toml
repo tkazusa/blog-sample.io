@@ -1,4 +1,4 @@
-baseURL = "http://tkazusa.github.io/"
+baseURL = "https://tkazusa.github.io/blog-sample.io/"
 languageCode = "en-us"
 title = "ML portal"
 theme = "book"
