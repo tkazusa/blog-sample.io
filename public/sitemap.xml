@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tkazusa.github.io/docs/</loc>
+  </url>
+  
+  <url>
     <loc>http://tkazusa.github.io/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
@@ -84,10 +88,6 @@
   
   <url>
     <loc>http://tkazusa.github.io/docs/page-one/</loc>
-  </url>
-  
-  <url>
-    <loc>http://tkazusa.github.io/docs/</loc>
   </url>
   
 </urlset>
