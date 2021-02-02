@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Introduction on ML portal</title>
-    <link>https://tkazusa.github.io/blog-sample.io/</link>
-    <description>Recent content in Introduction on ML portal</description>
+    <title>Top page on KazLog</title>
+    <link>https://tkazusa.github.io/pages-blog/</link>
+    <description>Recent content in Top page on KazLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://tkazusa.github.io/blog-sample.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tkazusa.github.io/pages-blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Document 1</title>
-      <link>https://tkazusa.github.io/blog-sample.io/docs/example/tech-contents/page-one/</link>
+      <link>https://tkazusa.github.io/pages-blog/docs/example/tech-contents/page-one/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tkazusa.github.io/blog-sample.io/docs/example/tech-contents/page-one/</guid>
-      <description>なにかについて #  </description>
+      <guid>https://tkazusa.github.io/pages-blog/docs/example/tech-contents/page-one/</guid>
+      <description>なにかについて </description>
     </item>
     
     <item>
       <title>Document 2</title>
-      <link>https://tkazusa.github.io/blog-sample.io/docs/example/tech-contents/page-two/</link>
+      <link>https://tkazusa.github.io/pages-blog/docs/example/tech-contents/page-two/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tkazusa.github.io/blog-sample.io/docs/example/tech-contents/page-two/</guid>
-      <description>なにかについて2 #  </description>
+      <guid>https://tkazusa.github.io/pages-blog/docs/example/tech-contents/page-two/</guid>
+      <description>なにかについて2 </description>
     </item>
     
     <item>
       <title>Creating a New Theme</title>
-      <link>https://tkazusa.github.io/blog-sample.io/posts/creating-a-new-theme/</link>
+      <link>https://tkazusa.github.io/pages-blog/posts/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://tkazusa.github.io/blog-sample.io/posts/creating-a-new-theme/</guid>
-      <description>ブログ #  </description>
+      <guid>https://tkazusa.github.io/pages-blog/posts/creating-a-new-theme/</guid>
+      <description>ブログ </description>
     </item>
     
   </channel>
