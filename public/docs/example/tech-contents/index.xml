@@ -11,21 +11,21 @@
     
     
     <item>
-      <title>Document 1</title>
-      <link>https://tkazusa.github.io/pages-blog/docs/example/tech-contents/page-one/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tkazusa.github.io/pages-blog/docs/example/tech-contents/page-one/</guid>
-      <description>なにかについて </description>
-    </item>
-    
-    <item>
       <title>Document 2</title>
       <link>https://tkazusa.github.io/pages-blog/docs/example/tech-contents/page-two/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tkazusa.github.io/pages-blog/docs/example/tech-contents/page-two/</guid>
       <description>なにかについて2 </description>
+    </item>
+    
+    <item>
+      <title>Rust</title>
+      <link>https://tkazusa.github.io/pages-blog/docs/example/tech-contents/page-one/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tkazusa.github.io/pages-blog/docs/example/tech-contents/page-one/</guid>
+      <description>Rust について学んだこと </description>
     </item>
     
   </channel>

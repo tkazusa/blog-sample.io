@@ -1,6 +1,6 @@
 ---
-title: Document 1
-weight: 1
+title: Rust
+weight: 2
+bookToc: false
 ---
-
-# なにかについて
+# Rust について学んだこと

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on ML portal</title>
-    <link>https://tkazusa.github.io/blog-sample.io/posts/</link>
-    <description>Recent content in Blog on ML portal</description>
+    <title>Blog on KazLog</title>
+    <link>https://tkazusa.github.io/pages-blog/posts/</link>
+    <description>Recent content in Blog on KazLog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://tkazusa.github.io/blog-sample.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tkazusa.github.io/pages-blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Creating a New Theme</title>
-      <link>https://tkazusa.github.io/blog-sample.io/posts/creating-a-new-theme/</link>
+      <link>https://tkazusa.github.io/pages-blog/posts/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://tkazusa.github.io/blog-sample.io/posts/creating-a-new-theme/</guid>
-      <description>ブログ #  </description>
+      <guid>https://tkazusa.github.io/pages-blog/posts/creating-a-new-theme/</guid>
+      <description>ブログ </description>
     </item>
     
   </channel>

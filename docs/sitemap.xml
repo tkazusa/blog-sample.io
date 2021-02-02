@@ -3,46 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tkazusa.github.io/blog-sample.io/docs/example/tech-contents/page-one/</loc>
+    <loc>https://tkazusa.github.io/pages-blog/docs/example/</loc>
   </url>
   
   <url>
-    <loc>https://tkazusa.github.io/blog-sample.io/docs/example/</loc>
+    <loc>https://tkazusa.github.io/pages-blog/docs/example/tech-contents/page-two/</loc>
   </url>
   
   <url>
-    <loc>https://tkazusa.github.io/blog-sample.io/docs/example/tech-contents/page-two/</loc>
+    <loc>https://tkazusa.github.io/pages-blog/docs/example/tech-contents/page-one/</loc>
   </url>
   
   <url>
-    <loc>https://tkazusa.github.io/blog-sample.io/posts/creating-a-new-theme/</loc>
+    <loc>https://tkazusa.github.io/pages-blog/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tkazusa.github.io/blog-sample.io/docs/example/tech-contents/</loc>
+    <loc>https://tkazusa.github.io/pages-blog/docs/example/tech-contents/</loc>
   </url>
   
   <url>
-    <loc>https://tkazusa.github.io/blog-sample.io/posts/</loc>
+    <loc>https://tkazusa.github.io/pages-blog/posts/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tkazusa.github.io/blog-sample.io/</loc>
+    <loc>https://tkazusa.github.io/pages-blog/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tkazusa.github.io/blog-sample.io/categories/</loc>
+    <loc>https://tkazusa.github.io/pages-blog/categories/</loc>
   </url>
   
   <url>
-    <loc>https://tkazusa.github.io/blog-sample.io/docs/</loc>
+    <loc>https://tkazusa.github.io/pages-blog/docs/</loc>
   </url>
   
   <url>
-    <loc>https://tkazusa.github.io/blog-sample.io/tags/</loc>
+    <loc>https://tkazusa.github.io/pages-blog/tags/</loc>
   </url>
   
 </urlset>
