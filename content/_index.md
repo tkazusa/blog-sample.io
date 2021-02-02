@@ -1,11 +1,7 @@
 ---
-title: Introduction
+title: Top page
 type: docs
 ---
-
-# AWS Machine Learning チームのすごいページだよ
-- すごいコンテンツ
-
-## すごいコンテンツ2
-- ものすごいコンテンツ
+# KazLog
+## Biography
 

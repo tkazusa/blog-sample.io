@@ -1,5 +1,5 @@
-baseURL = "https://tkazusa.github.io/blog-sample.io/"
+baseURL = "https://tkazusa.github.io/pages-blog/"
 languageCode = "en-us"
-title = "ML portal"
+title = "KazLog"
 theme = "book"
 BookMenuBundle = "/menu"
